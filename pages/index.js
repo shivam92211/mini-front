@@ -16,9 +16,10 @@ export default function Home({ products }) {
                         Welcome to the MiniFit Store
                     </div>
                     <div className="text-md md:text-xl">
-                        A lightweight Nike ZoomX midsole is combined with
-                        increased stack heights to help provide cushioning
-                        during extended stretches of running.
+            At MiniFit Paralleletes, we are dedicated to delivering high-quality
+            paralleletes for a wide range of applications. With our state-of-the-art
+            manufacturing facility and a team of skilled professionals, we provide reliable
+            and precise solutions for your parallel motion needs.
                     </div>
           </div>
         {/* heading and paragaph end */}
@@ -29,13 +30,6 @@ export default function Home({ products }) {
                 <ProductCard key={product?.id} data={product} />
               ))}
                     {/* <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
                     <ProductCard /> */}
         </div>
         {/* products grid end */}

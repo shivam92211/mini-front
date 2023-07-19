@@ -59,7 +59,7 @@ return (
     >
         <Wrapper className="h-[60px] flex justify-between items-center">
             <Link href="/" className="flex">
-                <img src="/assets/minilogo.png" alt="parallettes" className="w-[40px] h-[85px] md:w-[50px] " />
+                <img src="/assets/minilogo.png" alt="parallettes" className="w-[40px] h-[70px] pt-4 md:w-[50px] " />
                 <h1 className="font-bold text-3xl px-4 py-8">MiniFit</h1>
             </Link>
 

@@ -9,7 +9,7 @@ const Footer = () => {
 
   
   return (
-      <footer className='w-full border-solid border-dark font-medium text-lg
+      <footer className='md:w-full border-solid border-dark font-medium text-lg
         bg-blue-800'>
       
             <Layout className='py-8 items-center justify-between bg-teal-400' >
@@ -17,9 +17,9 @@ const Footer = () => {
               <Link href="">Phone</Link>
               <Link href="">Mail</Link> */}
         
-        <div className='flex'>
+        <div className='flex flex-col md:flex-row'>
           
-          <div className='w-1/2'>
+          <div className='md:w-1/2 md:pb-0 pb-4 '>
             
             <div className=" flex mb-4">
               <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
@@ -34,20 +34,22 @@ const Footer = () => {
               <h4>+91 81084 19746</h4>
             </div>
             
-            <div className="flex">
+            <div className="flex ">
               <FaMailBulk size={20} style={{ color: "#fff", marginRight: "2rem" }} />
               <h4>minifitproducts@gmail.com</h4>
            </div>
             
           </div>
 
-          <div className='w-1/2 '>
+          <div className='md:w-1/2 '>
             <div className="">
+              <div className='pb-4 '>
                 <h1 className='font-bold'>About the Company</h1>
                 <p>At MiniFit, we are dedicated to delivering high-quality paralleletes for a
                 wide range of applications.Choose MiniFit for precision, reliability, and
                 exceptional quality in paralleletes manufacturing.</p>
-              <div className="flex items-center" style={{ display: 'flex', justifyContent: 'center' }}>
+             </div>
+                 <div className="flex items-center" style={{ display: 'flex', justifyContent: 'center' }}>
                 <Link href="https://youtube.com/@minifit.corporation">
                   <FaYoutube size={35} style={{ color: "#fff", marginRight: "1rem" }} />
                 </Link>

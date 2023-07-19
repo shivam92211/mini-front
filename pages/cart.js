@@ -88,6 +88,7 @@ const Cart = () => {
                                 </div>
 
                                 {/* BUTTON START */}
+                                <a href="https://wa.me/c/918108419746" target="_blank">
                                 <button
                                     className="w-full py-4 rounded-full bg-black 
                                     text-white text-lg font-medium transition-transform 
@@ -95,9 +96,11 @@ const Cart = () => {
                                     gap-2 justify-center"
                                     onClick={handlePayment}
                                 >
-                                    Checkout
-                                    {loading && <img src="/spinner.svg" />}
-                                </button>
+                                        Checkout
+                                
+                                                                        {loading && <img src="/spinner.svg" />}
+                                    </button>
+                                    </a>
                                 {/* BUTTON END */}
                             </div>
                             {/* SUMMARY END */}
