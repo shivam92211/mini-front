@@ -45,10 +45,12 @@ const Footer = () => {
             <div className="">
               <div className='pb-4 '>
                 <h1 className='font-bold'>About the Company</h1>
-                <p>At MiniFit, we are dedicated to delivering high-quality paralleletes for a
+                <div className='flex justify-between ' style={{ display: 'flex', justifyContent: 'center' }}>
+                  <p className='flex justify-between'>At MiniFit, we are dedicated to delivering high-quality parallelets for a
                 wide range of applications.Choose MiniFit for precision, reliability, and
-                exceptional quality in paralleletes manufacturing.</p>
+                exceptional quality in parallelets manufacturing.</p>
              </div>
+                </div>
                  <div className="flex items-center" style={{ display: 'flex', justifyContent: 'center' }}>
                 <Link href="https://youtube.com/@minifit.corporation">
                   <FaYoutube size={35} style={{ color: "#fff", marginRight: "1rem" }} />

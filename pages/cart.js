@@ -81,9 +81,7 @@ const Cart = () => {
                                     <div className="text-sm md:text-md py-5 border-t mt-5">
                                         The subtotal reflects the total price of
                                         your order, including duties and taxes,
-                                        before any applicable discounts. It does
-                                        not include delivery costs and
-                                        international transaction fees.
+                                        before any applicable discounts. The delivery is free.
                                     </div>
                                 </div>
 
@@ -96,7 +94,7 @@ const Cart = () => {
                                     gap-2 justify-center"
                                     onClick={handlePayment}
                                 >
-                                        Checkout
+                                        Buy on Whatsapp
                                 
                                                                         {loading && <img src="/spinner.svg" />}
                                     </button>
@@ -105,7 +103,7 @@ const Cart = () => {
                             </div>
                             {/* SUMMARY END */}
                         </div>
-                        {/* CART CONTENT END */}
+                        {/* CART CONTENT END */} 
                     </>
                 )}
 

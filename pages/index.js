@@ -11,11 +11,11 @@ export default function Home({ products }) {
       <HeroBanner />
       <Wrapper>
         {/* heading and paragaph start */}
-        <div className="text-center max-w-[800px] mx-auto my-[50px] md:my-[80px]">
+        <div className="text-center grid  max-w-[800px] mx-auto my-[50px] md:my-[80px]">
                     <div className="text-[28px] md:text-[34px] mb-5 font-semibold leading-tight">
                         Welcome to the MiniFit Store
                     </div>
-                    <div className="text-md md:text-xl">
+                    <div className="text-md md:text-xl flex justify-between">
             At MiniFit Paralleletes, we are dedicated to delivering high-quality
             paralleletes for a wide range of applications. With our state-of-the-art
             manufacturing facility and a team of skilled professionals, we provide reliable
