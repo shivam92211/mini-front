@@ -12,6 +12,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
+        <meta name="google-site-verification" content="4fYiUTKZluC5t8KKYKM2xEmAouHwA5DHWyyc5nbTh8c" />
         <title>MiniFit</title>
         <meta name="description" content="" />
         <meta name="description" content="" />
