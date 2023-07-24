@@ -16,8 +16,8 @@ export default function Home({ products }) {
                         Welcome to the MiniFit Store
                     </div>
                     <div className="text-md md:text-xl flex justify-between">
-            At MiniFit Paralleletes, we are dedicated to delivering high-quality
-            paralleletes for a wide range of applications. With our state-of-the-art
+            At MiniFit Parallettes, we are dedicated to delivering high-quality
+            parallettes for a wide range of applications. With our state-of-the-art
             manufacturing facility and a team of skilled professionals, we provide reliable
             and precise solutions for your parallel motion needs.
                     </div>
