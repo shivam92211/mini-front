@@ -59,8 +59,8 @@ return (
     >
         <Wrapper className="h-[60px] flex justify-between items-center">
             <Link href="/" className="flex">
-                <img src="/assets/minilogo.png" alt="parallettes" className="w-[40px] h-[70px] pt-4 md:w-[50px] " />
-                <h1 className="font-bold text-3xl px-4 py-8">MiniFit</h1>
+                <img src="/assets/minilogo.png" alt="parallettes" className="w-[36px] h-[70px] pt-7 md:pt-6 md:w-[40px] " />
+                <h1 className="font-bold text-3xl px-4 py-8">MiniFit.co</h1>
             </Link>
 
             <Menu
@@ -95,7 +95,7 @@ return (
                 {/* Icon start */}
                 <Link href="/cart">
                         <div className="w-8 md:w-12 h-8 md:h-12 rounded-full flex justify-center items-center hover:bg-black/[0.05] cursor-pointer relative">
-                            <BsCart className="text-[15px] md:text-[20px]" />
+                            <BsCart className="text-[20px] md:text-[24px]" />
                             {cartItems.length > 0 && (
                                 <div className="h-[14px] md:h-[18px] min-w-[14px] md:min-w-[18px] rounded-full bg-red-600 absolute top-1 left-5 md:left-7 text-white text-[10px] md:text-[12px] flex justify-center items-center px-[2px] md:px-[5px]">
                                     {cartItems.length}
