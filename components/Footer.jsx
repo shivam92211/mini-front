@@ -46,9 +46,9 @@ const Footer = () => {
               <div className='pb-4 '>
                 <h1 className='font-bold'>About the Company</h1>
                 <div className='flex justify-between ' style={{ display: 'flex', justifyContent: 'center' }}>
-                  <p className='flex justify-between'>At MiniFit, we are dedicated to delivering high-quality parallelets for a
+                  <p className='flex justify-between'>At MiniFit, we are dedicated to delivering high-quality parallettes for a
                 wide range of applications.Choose MiniFit for precision, reliability, and
-                exceptional quality in parallelets manufacturing.</p>
+                exceptional quality in parallettes manufacturing.</p>
              </div>
                 </div>
                  <div className="flex items-center" style={{ display: 'flex', justifyContent: 'center' }}>
