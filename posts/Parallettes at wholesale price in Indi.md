@@ -5,7 +5,7 @@ date: "June 9, 2023"
 cover_image: "/assets/img2.jpg"
 ---
 
-* Introduction:
+* Introduction
 
 As we are parallettes manufacturing company our aim is to make high quality Parallettes for our customer at reasonable price and deliver directly to your door step.We make 3 range of parallettes and they are Medium size, Jumbo size, Pro Parallettes
 

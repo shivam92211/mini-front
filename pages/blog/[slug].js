@@ -19,10 +19,14 @@ const PostPage = ({frontmatter:{title, date, cover_image}, slug, content}) => {
               </div>
           </div>
 
+          <div className='flex justify-center'>
           <Link href="/articles"
             className='post-btn btn-back mt-6 ml-5'
           >Go Back
           </Link>
+          
+          </div>
+
           
 
       </div>
