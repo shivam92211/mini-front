@@ -4,7 +4,7 @@ import Link from 'next/link'
 const Post = ({post}) => {
   return (
     <div className='post-card mb-4'>
-      <img src={post.frontmatter.cover_image} alt="Minifit Blog" />
+      <img src={post.frontmatter.cover_image} alt={post.frontmatter.title} />
       
       <div className='post-date'>
         Posted on {post.frontmatter.date}
