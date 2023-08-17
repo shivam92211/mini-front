@@ -21,7 +21,8 @@ Don't let the word "affordable" fool you. Our parallettes are built to withstand
 
 Achieve optimal stability during your exercises, thanks to the solid construction and thoughtful design of our parallettes.
 
-* Versatility: 
+* Versatility:
+ 
 Whether you're a beginner or an experienced calisthenics enthusiast, our parallettes offer endless exercise possibilities, from push-ups and dips to L-sits and tucks.
 
 * Space-Saving: 
