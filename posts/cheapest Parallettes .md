@@ -3,6 +3,8 @@ title: "Cheapest Parallettes "
 subtitle: "Introducing our Affordable Medium Parallettes"
 date: "August 26, 2023"
 cover_image: "/assets/img10.jpg"
+lower_image: "/assets/img9.jpg"
+img_title: "Affordable parallettes"
 ---
 
 * Introduction

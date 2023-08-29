@@ -3,6 +3,8 @@ title: "Wooden Parallettes under 500 rupees"
 subtitle: "We Sell Affordable Parallettes?"
 date: "August 23, 2023"
 cover_image: "/assets/img9.jpg"
+lower_image: "/assets/img12.jpg"
+img_title: "Affordable parallettes"
 ---
 
 * Introduction

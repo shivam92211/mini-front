@@ -5,7 +5,7 @@ import matter from 'gray-matter'
 import { marked } from 'marked';
 import Link from 'next/link'
 
-const PostPage = ({frontmatter:{title, date, cover_image}, slug, content}) => {
+const PostPage = ({frontmatter:{title, date, cover_image, lower_image, img_title}, slug, content, }) => {
   return (
       <div>
           
@@ -13,10 +13,14 @@ const PostPage = ({frontmatter:{title, date, cover_image}, slug, content}) => {
           <div className='post-card card-page shadow-lg'>
               <h1 className='post-title text-2xl font-semibold'>{title}</h1>
               <div className='post-date'>Posted on {date}</div>
-              <img src={cover_image} alt={title} />
+              <img src={cover_image} alt={img_title} />
               <div className='post-body'>
                   <div dangerouslySetInnerHTML={{__html: marked(content)}}></div>
               </div>
+
+              <div className='flex justify-center mt-6'>
+              <img  src={lower_image} alt={img_title} />
+            </div>
           </div>
 
           <div className='flex justify-center'>

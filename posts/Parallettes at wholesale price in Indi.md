@@ -3,6 +3,8 @@ title: "Parallettes at wholesale price in India"
 subtitle: "Parallettes manufacturing company."
 date: "June 9, 2023"
 cover_image: "/assets/img2.jpg"
+lower_image: "/assets/img12.jpg"
+img_title: "Affordable parallettes"
 ---
 
 * Introduction

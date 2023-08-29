@@ -3,6 +3,8 @@ title: "Unlock Your Calisthenics Potential with Affordable Parallettes"
 subtitle: "Why Choose Our Affordable Parallettes?"
 date: "August 16, 2023"
 cover_image: "/assets/img4.jpg"
+lower_image: "/assets/img12.jpg"
+img_title: "Affordable parallettes"
 ---
 
 * Introduction

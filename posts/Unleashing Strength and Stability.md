@@ -3,6 +3,8 @@ title: "Unleashing Strength and Stability"
 subtitle: " The Importance of Parallettes in Your Fitness Routine"
 date: "July 27, 2023"
 cover_image: "/assets/img3.jpg"
+lower_image: "/assets/img12.jpg"
+img_title: "Affordable parallettes"
 ---
 
 * Introduction

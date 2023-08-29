@@ -3,6 +3,8 @@ title: "Low price wooden Parallettes in India"
 subtitle: "Why MiniFit Wooden Parallettes Stand Out?"
 date: "August 3, 2023"
 cover_image: "/assets/img6.jpg"
+lower_image: "/assets/img12.jpg"
+img_title: "Affordable parallettes"
 ---
 
 * Introduction

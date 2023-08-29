@@ -3,6 +3,8 @@ title: "Low price wooden Parallettes in India"
 subtitle: "Parallettes for Calisthenics and bodyweight training."
 date: "June 3, 2023"
 cover_image: "/assets/img1.jpg"
+lower_image: "/assets/img12.jpg"
+img_title: "Affordable parallettes"
 ---
 
 * Introduction
