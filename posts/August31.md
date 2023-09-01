@@ -1,7 +1,7 @@
 ---
 title: "Parallettes for Advance Calisthenics training and workout ( Pro Parallettes)"
 subtitle: "Introducing our Pro Parallettes"
-date: "August 26, 2023"
+date: "August 31, 2023"
 cover_image: "/assets/img13.jpg"
 lower_image: "/assets/img14.jpg"
 img_title: "Best Parallettes"
