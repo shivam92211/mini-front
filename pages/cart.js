@@ -82,6 +82,7 @@ const Cart = () => {
                                         The subtotal reflects the total price of
                                         your order, including duties and taxes,
                                         before any applicable discounts. The delivery is free.
+                                        We take order on our whatsapp bussiness account.
                                     </div>
                                 </div>
 
@@ -94,7 +95,7 @@ const Cart = () => {
                                     gap-2 justify-center"
                                     onClick={handlePayment}
                                 >
-                                        Buy on Whatsapp
+                                        Place Order
                                 
                                                                         {loading && <img src="/spinner.svg" />}
                                     </button>
