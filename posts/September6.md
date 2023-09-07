@@ -8,7 +8,7 @@ img_title: "Best parallettes"
 ---
 
 
-* Introduction
+* Introduction:
 
 Yoga is a practice that combines physical strength, mental clarity, and spiritual serenity. It's about finding balance within and achieving harmony with the world around us. To enhance your yoga journey, you might want to consider incorporating parallettes into your practice. In this blog, we'll explore the many ways parallettes can elevate your yoga practice.
 
