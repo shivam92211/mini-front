@@ -1,5 +1,5 @@
 ---
-title: "Best Parallettes for Calisthenics training."
+title: "3 Best Parallettes for Calisthenics training."
 subtitle: "Try Minifit Parallettes for your Calisthenics training"
 date: "September 7, 2023"
 cover_image: "/assets/img11.jpg"
