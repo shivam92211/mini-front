@@ -16,10 +16,14 @@ export default function Home({ products }) {
                         Welcome to the MiniFit Store
                     </div>
                     <div className="text-md md:text-xl flex justify-between">
-            At MiniFit Parallettes, we are dedicated to delivering high-quality
-            parallettes for a wide range of applications. With our state-of-the-art
-            manufacturing facility and a team of skilled professionals, we provide reliable
-            and precise solutions for your parallel motion needs.
+            "Welcome to our premium collection of Wooden Parallettes - the perfect
+            fusion of craftsmanship, stability, and functionality. Crafted from high-quality,
+            sustainable hardwood, our parallettes offer a superior grip and sturdy support for
+            your calisthenics and gymnastic routines. Elevate your fitness regime with these
+            versatile tools designed to enhance strength, balance, and core stability. Explore
+            our range of hand-finished parallettes, available in various sizes to cater to
+            different skill levels. Unlock new heights in your workouts with these eco-friendly,
+            aesthetically pleasing wooden parallettes. Elevate your fitness journey today!"
                     </div>
           </div>
         {/* heading and paragaph end */}

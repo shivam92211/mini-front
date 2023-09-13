@@ -2,8 +2,8 @@
 title: "Wooden Parallettes for planche"
 subtitle: "Parallettes Online"
 date: "September 9, 2023"
-cover_image: "/assets/img22.jpg"
-lower_image: "/assets/img10.jpg"
+cover_image: "/assets/img23.jpg"
+lower_image: "/assets/img11.jpg"
 img_title: "Wooden parallettes"
 ---
 
