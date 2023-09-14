@@ -15,7 +15,7 @@ In the quest for a balanced, flexible, and strong body, yoga enthusiasts are con
 * 1. Enhanced Stability and Balance:
 
 
-   MiniFit Yoga Parallettes provide a stable platform for a variety of poses and exercises. By elevating your hands off the ground, you gain better control and balance in challenging poses like handstands, L-sits, and arm balances. This increased stability allows practitioners to explore more advanced postures with confidence.
+MiniFit Yoga Parallettes provide a stable platform for a variety of poses and exercises. By elevating your hands off the ground, you gain better control and balance in challenging poses like handstands, L-sits, and arm balances. This increased stability allows practitioners to explore more advanced postures with confidence.
 
 
 * 2. Deeper Stretching and Strengthening:
