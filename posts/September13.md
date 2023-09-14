@@ -1,7 +1,7 @@
 ---
 title: "Wooden Parallettes for handstand"
 subtitle: "Handstand Parallettes"
-date: "September 12, 2023"
+date: "September 13, 2023"
 cover_image: "/assets/img31.jpg"
 lower_image: "/assets/img32.jpg"
 img_title: "parallettes"
