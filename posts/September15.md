@@ -1,5 +1,5 @@
 ---
-title: "Parallettes under 1000  rupees"
+title: "Parallettes under 1000 rupees"
 subtitle: "1000rs Parallettes"
 date: "September 15, 2023"
 cover_image: "/assets/img35.jpg"
@@ -23,9 +23,13 @@ One of the most significant advantages of MiniFit's Wooden Parallettes is their 
 Here are some of the key exercises you can perform with MiniFit's Wooden Parallettes:
 
 **1. Dips:** Target your chest, shoulders, and triceps with controlled and effective dips.
+
 **2. L-sits:** Develop core strength and stability with this challenging isometric exercise.
+
 **3. Push-ups:** Elevate your push-up game to engage your chest and shoulders more intensely.
+
 **4. Tuck Planche:** Advance your bodyweight training with this impressive static hold.
+
 **5. Handstands:** Use the parallettes as support to practice and perfect your handstand form.
 
 * Maximizing Benefits, Minimizing Costs:
