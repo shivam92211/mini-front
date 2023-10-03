@@ -1,7 +1,7 @@
 ---
 title: "Different types of parallettes for calisthenics workout"
 subtitle: "Calisthenics workout parallettes exercise"
-date: "September 22, 2023"
+date: "September 23, 2023"
 cover_image: "/assets/img49.jpg"
 lower_image: "/assets/img50.jpg"
 img_title: "Cheapest Parallettes"
