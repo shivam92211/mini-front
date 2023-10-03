@@ -43,5 +43,3 @@ No matter your fitness level or training goals, MiniFit's diverse range of paral
 
 Explore MiniFit's parallettes collection today and take your fitness journey to new heights!
 
-
-Remember to replace placeholders like "your website" with the actual details before publishing the blog on your website.
