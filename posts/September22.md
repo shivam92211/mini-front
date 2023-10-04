@@ -2,8 +2,8 @@
 title: "Wooden Parallettes - Helix Parallettes"
 subtitle: "Best Helix Parallettes exercise"
 date: "September 22, 2023"
-cover_image: "/assets/img47.jpg"
-lower_image: "/assets/img48.jpg"
+cover_image: "/assets/img48.jpg"
+lower_image: "/assets/img47.jpg"
 img_title: "Cheapest Parallettes"
 ---
 
